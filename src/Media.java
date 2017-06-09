@@ -1,7 +1,4 @@
-import java.lang.reflect.Array;
 import java.util.Scanner;
-import java.util.Vector;
-
 /**
  * Created by felipequecole on 07/06/17.
  * @author felipequecole
